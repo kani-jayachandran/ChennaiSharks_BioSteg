@@ -48,7 +48,7 @@ biosteg-locker/
 
 1. **Clone the repository**
 ```bash
-git clone <repository>
+git clone https://github.com/kani-jayachandran/ChennaiSharks_BioSteg
 cd biosteg-locker
 ```
 
